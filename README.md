@@ -1,6 +1,6 @@
 
 
-Explore US Bikeshare Data - Python
+ US Bikeshare Data - Python
 
 This project is part of Udacity Programming for Data Science Nanodegree - Python.
 
